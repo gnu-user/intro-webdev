@@ -17,7 +17,9 @@ Associated Crash-Cource Material
 ---------------------------------
 
 If you are reading this project description and don't also have a copy of the associated
-crash-course powerpoint slides you can view/download them from here **ADD SLIDES**.
+crash-course powerpoint slides you can view/download them from here **ADD SLIDES**. Please
+see the [GUIDE.md](GUIDE.md) for step-by-step instructions on creating your first website
+with Cloud9 and Heroku.
 
 
 Copyright (Really Copyleft)
