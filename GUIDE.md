@@ -51,6 +51,8 @@ Committing Changes
     git commit          (type in a commit message and press ctrl + x and then Y to save)
     
     git push            (this sends your changes to github server)
+    
+    git pull            (download updates from github to local machine)
     ```
 
 
