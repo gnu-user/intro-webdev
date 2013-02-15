@@ -1,6 +1,7 @@
 Creating Your First Website
 =============================
 
+
 Creating a Project
 -------------------
 
@@ -19,8 +20,7 @@ Creating a Project
 5.  You should now be able to open the project in the cloud9 IDE and begin working on it
 
 
-
-Bootrapping your Project
+Bootstrapping your Project
 -------------------------
 
 1.  First start by downloading [Bootstrap](http://twitter.github.com/bootstrap/) and extracting
@@ -29,12 +29,13 @@ Bootrapping your Project
 2.  Now, in cloud9 select "upload to this folder" and upload the css, img, js folders you extracted
     from bootstrap.zip
 
-3.  Next download JQuery and then select the js folder and upload the jquery file to the JS folder 
-    or you can simply use this later on when we get to adding scripts.
+3.  Next download [JQuery](http://jquery.com/) and then select the js folder and upload the jquery 
+    file to the JS folder or you can simply use this later on when we get to adding scripts.
 
     ```html
     <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
     ```
+
 
 Committing Changes
 --------------------
