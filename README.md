@@ -13,7 +13,7 @@ Twitter Bootstrap, HTML5, JQuery, 960 grid system, Responsive JS and how to depl
 a web application to platforms such as Heroku.
 
 
-Associated Crash-Cource Material
+Associated Crash-Course Material
 ---------------------------------
 
 If you are reading this project description you can download a copy of the associated
